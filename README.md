@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there! 👋
+🌱 I’m currently learning DataScience and Python with the Skillfactory platform
 
 <!--
 **AlexanderMeshchaninov/AlexanderMeshchaninov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
